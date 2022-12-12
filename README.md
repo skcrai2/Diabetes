@@ -13,5 +13,5 @@ I then opened my Jupyter Notebook from the Anaconda Navigator and imported the r
   I then read the data into a dataframe and looked at the head and tail data (first 5 observations and final 5 obeservations) to see what I was working with
   I wanted to play around with some other ways to though the data, so I also displayed a random sample of 10 records
   
-  Next, I wanted to check out the number of observations and the comun types and name
+  Next, I wanted to check out the number of observations and the column types and names
   
