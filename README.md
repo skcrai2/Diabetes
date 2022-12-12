@@ -11,7 +11,7 @@ I wanted to play around with some other ways to though the data, so I also displ
 
 Next, I wanted to check out the number of observations and the column types and names just to see how many columns I had and what type of formats they were.  It was a pretty simple file with expected types, so now we need to look into the data to see what we're working with.
 
-The first step I took was to get a summary of the descriptive stats.  Givent hat we have some minimum values that were zero, I decided to clean the data next.
+The first step I took was to get a summary of the descriptive stats.  Given that we have some minimum values that were zero, I decided to clean the data next.
 
 I started this by looking for any null values or duplicates in the data.  There were no duplicates, so I moved on to the missing values.  I printed off the number of null values for each of my relevant numerical variables.  There are really two directions you can go with null values; you can either remove any variables with missing values, or you can imput the missing values using the mean, which is what I ended up doing. 
 
