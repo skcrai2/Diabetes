@@ -1,5 +1,5 @@
 # Diabetes
-Using Jupyter Notebook to clean, visulaize and predict diabetes outcome
+Using Jupyter Notebook to clean, visualize and predict diabetes outcome
 
 I have a real interest in chronic diseases for both professional and personal reasons, and I wanted to play around with some real world data to work and improve upon some of my python skills, so I started by downloading the data from kaggle (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database), and I have it loaded here on Github for easy download along with my python notbook file
 
